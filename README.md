@@ -19,7 +19,7 @@ giving access only to our evaluator when requested. The repository should contai
 * A code solution that can deliver an output as specified.
 * A README file, in English, with:
     * Detailed execution instructions of the solution in a clear and concise fashion;
-    * The answer to the [question](#the-question).
+    * The answer to the [question](https://github.com/giant-steps/internship-2022q2/#the-question).
 # Frequently Asked Questions (FAQ)
 **Are there any particular frameworks, databases systems or tools I should use for this challenge?**
 - No, use whatever you feel most comfortable with and that will best demonstrate your software engineering and coding skills. The only technical requirement for this challenge is that you must use Python on the development process.
