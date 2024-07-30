@@ -25,3 +25,5 @@ giving access only to our evaluator when requested. The repository should contai
 - No, use whatever you feel most comfortable with and that will best demonstrate your software engineering and coding skills. The only technical requirement for this challenge is that you must use Python on the development process.
 **Should the output of my program be in a specific format or use a particular data structure?**
 - No, as long we are able to validate the output of your solution, you can define how you will deliver it.
+
+# Note: This solution was prepared by João Paula as part of the application process for Giant Steps Capital.
